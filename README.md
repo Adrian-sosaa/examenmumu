@@ -19,7 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ##imagen uno 
--![image](https://github.com/user-attachments/assets/7e430d6c-ac0b-432a-9203-7b72100b99b6)
+-![image](https://github.com/user-attachments/assets/96407522-9b74-4eef-8b7b-9abfd0501bf0)
+
 
 ##imagen 2
 -![image](https://github.com/user-attachments/assets/ea618f7e-5a80-4eb7-80e7-ff7c42c34ae5)
